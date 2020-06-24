@@ -9,7 +9,7 @@ namespace Spryker\Glue\CmsPagesContentBannersResourceRelationship\Processor\Expa
 
 use Spryker\Glue\GlueApplication\Rest\Request\Data\RestRequestInterface;
 
-interface ContentBannersByCmsPageReferenceResourceRelationshipExpanderInterface
+interface ContentBannerByCmsPageUuidResourceRelationshipExpanderInterface
 {
     /**
      * @param \Spryker\Glue\GlueApplication\Rest\JsonApi\RestResourceInterface[] $resources
